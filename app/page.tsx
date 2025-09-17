@@ -81,6 +81,7 @@ export default function AboutPage() {
                 <div>
                   <h3 className="font-semibold mb-2">Education</h3>
                   <p className="text-gray-700 dark:text-gray-300">School of Computer Science</p>
+                  <p className="text-gray-700 dark:text-gray-300">GPA: 3.71/4.00</p>
                   <p className="text-gray-600 dark:text-gray-400">Binus University</p>
                 </div>
 
