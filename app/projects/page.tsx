@@ -35,7 +35,7 @@ function ProjectCard({ title, description, image, tags, githubUrl, liveUrl }: Pr
               <Button
                 variant="ghost"
                 size="icon"
-                className="text-gray-600 dark:text-gray-400 hover:text-black dark:hover:text-white"
+                className="text-gray-600 dark:text-gray-400 hover:text-white hover:bg-gray-800 dark:hover:text-white dark:hover:bg-gray-700 transition-all duration-300 ease-in-out"
                 onClick={() => window.open(githubUrl, "_blank")}
               >
                 <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
@@ -51,7 +51,7 @@ function ProjectCard({ title, description, image, tags, githubUrl, liveUrl }: Pr
               <Button
                 variant="outline"
                 size="sm"
-                className="text-gray-600 dark:text-gray-400 border-gray-600 dark:border-gray-400 hover:bg-black hover:text-white hover:border-black dark:hover:bg-black dark:hover:text-white dark:hover:border-black bg-transparent transition-all duration-300 ease-in-out"
+                className="text-gray-700 dark:text-gray-300 border-gray-400 dark:border-gray-500 bg-white dark:bg-gray-800 hover:bg-black hover:text-white hover:border-black dark:hover:bg-white dark:hover:text-black dark:hover:border-white transition-all duration-300 ease-in-out"
                 onClick={() => window.open(liveUrl, "_blank")}
               >
                 Demo
