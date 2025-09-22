@@ -51,7 +51,7 @@ function ProjectCard({ title, description, image, tags, githubUrl, liveUrl }: Pr
               <Button
                 variant="outline"
                 size="sm"
-                className="text-blue-600 dark:text-blue-400 border-blue-600 dark:border-blue-400 hover:bg-blue-600 hover:text-white dark:hover:bg-blue-400 dark:hover:text-black bg-transparent"
+                className="text-white-600 dark:text-white-400 border-black-600 dark:border-black-400 hover:bg-black-600 hover:text-white dark:hover:bg-black-400 dark:hover:text-black bg-transparent"
                 onClick={() => window.open(liveUrl, "_blank")}
               >
                 Demo
