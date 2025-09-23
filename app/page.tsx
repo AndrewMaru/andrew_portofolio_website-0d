@@ -31,7 +31,7 @@ export default function AboutPage() {
             <a
               href="/andrew-taslim-cv.txt"
               download
-              className="inline-flex items-center gap-2 rounded-md border border-gray-300 dark:border-gray-700 bg-white/80 dark:bg-black/60 px-4 py-2 text-sm font-medium text-black dark:text-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors duration-300"
+              className="inline-flex items-center gap-2 rounded-md border border-gray-300 dark:border-gray-700 bg-white/80 dark:bg-black/60 px-4 py-2 text-sm font-medium text-black dark:text-white hover:bg-gray-200 dark:hover:bg-gray-800 transition-colors duration-300"
               aria-label="Download CV"
             >
               {/* Using your provided SVG, theme-aware via currentColor */}
