@@ -1,0 +1,65 @@
+ANDREW TASLIM
+085216163301 | andrewtaslim28@gmail.com | https://www.linkedin.com/in/andrew-taslim-at28 | https://andrewtaslimporto.vercel.app
+Jalan Green Lake City Europe 7 no 66, Petir, Tangerang City, Jakarta, Indonesia
+
+My name is Andrew. I am an active student at BINUS University with a strong passion and skill set in software development as a Fullstack Developer, as well as in data processing and analytics. I have hands-on experience in building web applications using both frontend and backend technologies such as HTML, CSS, JavaScript, React, and Nest.Js. I also possess a solid understanding of data analysis using Python, SQL, and visualization tools like Looker Studio. I'm passionate about combining coding expertise with data-driven insights to create efficient and impactful digital solutions. I am a collaborative team player, quick to learn new technologies, and highly result-oriented.
+
+Project
+HTML VKellogg's Project - Tangerang, Banten | Feb 2024 - May 2024
+Developer
+VKellogg's is a company famous for its cereal and snack products, including well-known brands like Corn Flakes, Pringles, Rice Krispies, and Froot Loops. The company's mission is to "nourish families so they can flourish and thrive" by providing a variety of cereals, snacks, and other convenience foods.
+- Developed a responsive website using HTML, CSS, and JavaScript.
+- Implemented interactive features and optimized performance for smooth user experience.
+- Gained practical experience in front-end development.
+
+Software Engineering Flancer Project - Tangerang, Banten | Feb 2025 - May 2025
+Developer
+Entering the world of digital freelancing is not always easy for beginners. One of the biggest challenges often faced is the lack of work experience and portfolios that can convince potential clients of their abilities. Many beginners find themselves trapped in a situation where they need experience to get jobs, but struggle to get jobs because they don’t yet have experience to showcase. Recognizing these challenges and the great potential beginners have, the idea of developing “Flancer” emerged to provide a platform where they can gain early projects, acquire practical experience, and build a solid portfolio.
+- Designed and implemented the initial project layout and UI concepts with Figma.
+- Developed the front-end interface of the website, integrating with a NestJS backend.
+- Created comprehensive project documentation.
+
+Machine Learning Risk Obesity Prediction Project - Tangerang, Banten | Feb 2025 - May 2025
+Developer
+Obesity is a growing global health problem and a major risk factor for various diseases such as diabetes, hypertension, coronary heart disease, stroke, and several types of cancer. According to WHO, global obesity rates have nearly tripled since 1975.
+- Conducted EDA to identify trends and key characteristics.
+- Performed data modeling for predictive insights.
+- Created data visualizations to communicate findings.
+
+Datathon Competition Lung Cancer Prediction Project - Tangerang, Banten | Jun 2025 - Jul 2025
+Developer
+Datathon 2025 is a data science and AI/ML competition organized by RISTEK, Fasilkom UI.
+- Participated and applied data-driven approaches to build practical AI/ML solutions.
+- Enhanced analysis, modeling, and deployment skills.
+
+Education
+Universitas Bina Nusantara - Tangerang, Banten | Aug 2023 - Aug 2027 (Expected)
+Bachelor of Computer Science, 3.71/4.00
+SMA Permai Jakarta - Jakarta, Indonesia | Jul 2020 - Jun 2023
+Senior High School
+
+Organizational Experience
+HIMTI BINUS - Tangerang | Dec 2024 - Dec 2025
+Activist of Himti Care
+- Organized bonding events for HIMTI members
+- Assisted planning and execution of activities
+
+Technology Festival 2024 - Jakarta | Jan 2024 - Jul 2024
+Committee Staff of Technical
+- Coordinated with technical team and event organizers
+- Supported the smooth execution of the event
+
+HISHOT 2024 - Tangerang | Nov 2023 - Dec 2024
+Committee Staff of Design & Documentation (DnD)
+- Designed presentation templates and guidebooks
+- Helped with documentation and fundraising materials
+
+TECHNO 2025 - Jakarta | Jan 2025 - Sep 2025
+Committee Staff of Pembelajaran Bahasa Pemrograman (PBP)
+- Recruited tutors for newly admitted SOCS students
+- Coordinated academic support and introductory sessions
+
+Skills & Tools
+Soft Skills: Communication, Teamwork, Problem-Solving, Critical Thinking, Adaptability
+Technical: C, C++, HTML, CSS, JS, React, Python, SQL, Java, Design
+Tools: VS Code, Eclipse, Figma, Looker Studio, Google Colab, GitHub
