@@ -29,8 +29,8 @@ export default function AboutPage() {
             {/* Download CV Button */}
           <div className="max-w-6xl mx-auto mt-8 flex justify-center">
             <a
-              href="/andrew-taslim-cv.txt"
-              download
+              href="/Andrew-Taslim-CV.pdf"
+              download="Andrew-Taslim-CV.pdf"
               className="inline-flex items-center gap-2 rounded-md border border-gray-300 dark:border-gray-700 bg-white/80 dark:bg-black/60 px-4 py-2 text-sm font-medium text-black dark:text-white hover:bg-gray-200 dark:hover:bg-gray-800 transition-colors duration-300"
               aria-label="Download CV"
             >
