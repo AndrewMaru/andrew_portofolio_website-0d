@@ -23,8 +23,24 @@ export default function AboutPage() {
 
             <h1 className="text-4xl font-bold mb-2">Andrew Taslim</h1>
             <p className="text-gray-600 dark:text-gray-400 text-lg mb-8">Bina Nusantara Computer Science Student</p>
-
+          
             <SocialLinks />
+
+            {/* Download CV Button */}
+          <div className="max-w-6xl mx-auto mt-8 flex justify-center">
+            <a
+              href="/andrew-taslim-cv.txt"
+              download
+              className="inline-flex items-center gap-2 rounded-md border border-gray-300 dark:border-gray-700 bg-white/80 dark:bg-black/60 px-4 py-2 text-sm font-medium text-black dark:text-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors duration-300"
+              aria-label="Download CV"
+            >
+              {/* Using your provided SVG, theme-aware via currentColor */}
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
+                <path d="M12.4142 5H21C21.5523 5 22 5.44772 22 6V20C22 20.5523 21.5523 21 21 21H3C2.44772 21 2 20.5523 2 20V4C2 3.44772 2.44772 3 3 3H10.4142L12.4142 5ZM4 5V19H20V7H11.5858L9.58579 5H4ZM13 13H16L12 17L8 13H11V9H13V13Z"></path>
+              </svg>
+              <span>Download CV</span>
+            </a>
+          </div>
           </div>
 
           {/* Content Grid */}
@@ -163,22 +179,6 @@ export default function AboutPage() {
                 </div>
               </div>
             </div>
-          </div>
-
-          {/* Download CV Button */}
-          <div className="max-w-6xl mx-auto mt-8 flex justify-center">
-            <a
-              href="/andrew-taslim-cv.txt"
-              download
-              className="inline-flex items-center gap-2 rounded-md border border-gray-300 dark:border-gray-700 bg-white/80 dark:bg-black/60 px-4 py-2 text-sm font-medium text-black dark:text-white hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors duration-300"
-              aria-label="Download CV"
-            >
-              {/* Using your provided SVG, theme-aware via currentColor */}
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
-                <path d="M12.4142 5H21C21.5523 5 22 5.44772 22 6V20C22 20.5523 21.5523 21 21 21H3C2.44772 21 2 20.5523 2 20V4C2 3.44772 2.44772 3 3 3H10.4142L12.4142 5ZM4 5V19H20V7H11.5858L9.58579 5H4ZM13 13H16L12 17L8 13H11V9H13V13Z"></path>
-              </svg>
-              <span>Download CV</span>
-            </a>
           </div>
         </main>
 
