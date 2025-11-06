@@ -124,6 +124,14 @@ export default function ProjectsPage() {
       githubUrl: "https://github.com/AndrewMaru/HCI_LAB",
       liveUrl: "https://hci-lab-2-m7qpzll5t-andrewmarus-projects.vercel.app/",
     },
+    {
+      title: "Dana Kita",
+      description:
+        "A modern investment platform built with TypeScript and React, enabling investors to fund and support local MSMEs (Micro, Small, and Medium Enterprises). The application features a clean, responsive interface that promotes transparency and accessibility in community-driven investing. With a scalable component-based architecture, strong type safety through TypeScript, and seamless interactivity powered by React, Dana Kita ensures a reliable and engaging experience for both investors and entrepreneurs.",
+      image: "/Dana_Kita_Page.png",
+      tags: ["TypeScript", "React", "Tailwind CSS"],
+      liveUrl: "https://dana-kita-connect.lovable.app/",
+    }
   ]
 
   return (
