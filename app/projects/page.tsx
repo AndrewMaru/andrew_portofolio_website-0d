@@ -130,7 +130,8 @@ export default function ProjectsPage() {
         "A modern investment platform built with TypeScript and React, enabling investors to fund and support local MSMEs (Micro, Small, and Medium Enterprises). The application features a clean, responsive interface that promotes transparency and accessibility in community-driven investing. With a scalable component-based architecture, strong type safety through TypeScript, and seamless interactivity powered by React, Dana Kita ensures a reliable and engaging experience for both investors and entrepreneurs.",
       image: "/Dana_Kita_Page.png",
       tags: ["TypeScript", "React", "Tailwind CSS"],
-      liveUrl: "https://dana-kita-connect.lovable.app/",
+      githubUrl: "https://github.com/jason32456/dana-kita-connect",
+      liveUrl: "https://dana-kita.vercel.app",
     }
   ]
 
