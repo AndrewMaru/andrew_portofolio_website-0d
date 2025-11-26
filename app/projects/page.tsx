@@ -132,25 +132,23 @@ export default function ProjectsPage() {
       tags: ["TypeScript", "React", "Tailwind CSS"],
       githubUrl: "https://github.com/jason32456/dana-kita-connect",
       liveUrl: "https://dana-kita.vercel.app",
-    }
+    },
     {
       title: "Simple Tic Tac Toe",
-      description:
-        "A simple tic tac toe game to play",
+      description: "A simple tic tac toe game to play",
       image: "/TicTacToe.jpeg",
       tags: ["HTML", "CSS", "JavaScript"],
       githubUrl: "https://github.com/AndrewMaru/TicTacToe",
       liveUrl: "https://tic-tac-toe28.vercel.app",
-    }
+    },
     {
       title: "TrainHub",
-      description:
-        "A Website where you can find your own personal trainer or clients. On Progress..",
+      description: "A Website where you can find your own personal trainer or clients. On Progress..",
       image: "",
       tags: ["TypeScript", "Next.Js", "Supabase", "React", "Tailwind CSS"],
       githubUrl: "",
       liveUrl: "https://v0-personal-trainer-website-kohl.vercel.app/about",
-    }
+    },
   ]
 
   return (
